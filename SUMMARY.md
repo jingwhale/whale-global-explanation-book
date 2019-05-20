@@ -5,7 +5,7 @@
 * [常用的控件](chang-yong-de-kong-jian.md)
 * [加载机制](jia-zai-ji-zhi.md)
 * [网络环境](wang-luo-huan-jing.md)
-* 缓存机制
+* [缓存机制](huan-cun-ji-zhi.md)
 * 操作手势
 * 中断机制
 * 屏幕旋转
