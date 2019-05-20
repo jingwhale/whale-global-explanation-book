@@ -2,7 +2,7 @@
 
 #### 一、时间显示
 
-交易时间显示：yyyy-MM-dd mm:ss
+交易相关、优惠券相关，时间显示：yyyy-MM-dd mm:ss
 
 实体创建时间：yyyy-MM-dd
 
