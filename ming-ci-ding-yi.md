@@ -22,7 +22,7 @@ KANO 模型是东京理工大学教授狩野纪昭\(Noriaki Kano\)发明的对�
 
 UI 的本意是用户界面，是英文 User 和 interface 的缩写。
 
-* GUI
+* ##### GUI
 
 Graphics User Interface 图形用户界面
 
