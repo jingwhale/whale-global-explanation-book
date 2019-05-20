@@ -6,7 +6,7 @@
 * [加载机制](jia-zai-ji-zhi.md)
 * [网络环境](wang-luo-huan-jing.md)
 * [缓存机制](huan-cun-ji-zhi.md)
-* 操作手势
+* [操作手势](cao-zuo-shou-shi.md)
 * 中断机制
 * 屏幕旋转
 * 声音控制
