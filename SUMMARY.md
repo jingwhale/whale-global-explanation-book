@@ -2,7 +2,7 @@
 
 * [设计价值](README.md)
 * [设计规范](chapter1.md)
-* 常用的控件
+* [常用的控件](chang-yong-de-kong-jian.md)
 * [加载机制](jia-zai-ji-zhi.md)
 * 刷新机制
 * 网络环境
