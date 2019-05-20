@@ -4,7 +4,7 @@
 * [设计规范](chapter1.md)
 * [常用的控件](chang-yong-de-kong-jian.md)
 * [加载机制](jia-zai-ji-zhi.md)
-* 刷新机制
+* [刷新机制](shua-xin-ji-zhi.md)
 * [网络环境](wang-luo-huan-jing.md)
 * 缓存机制
 * 操作手势
