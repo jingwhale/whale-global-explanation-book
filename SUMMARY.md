@@ -9,7 +9,6 @@
 * [操作手势](cao-zuo-shou-shi.md)
 * [中断机制](zhong-duan-ji-zhi.md)
 * [声音控制](sheng-yin-kong-zhi.md)
-* 信息显示
 * 无访问位置权限
 * 名词定义
 
