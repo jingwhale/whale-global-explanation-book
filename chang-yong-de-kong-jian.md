@@ -17,8 +17,8 @@
 
 #### 三、系统组件库
 
-* IOS
-* Android
+* IOS系统，遵循IOS组件库规范
+* Android系统，遵循Android组件库规范
 
 
 
