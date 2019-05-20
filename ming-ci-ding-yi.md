@@ -42,8 +42,6 @@ Web User Interface 网页风格用户界面
 
 information Architect 信息架构
 
-* ##### 
-
 * ##### HCT
 
 human computer interaction 人机交互
