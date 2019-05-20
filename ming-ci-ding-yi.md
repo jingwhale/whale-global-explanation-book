@@ -1,5 +1,9 @@
 # 名词定义
 
+* ##### UX
+
+user experlence 用户体验
+
 * ##### MVP
 
 Minimum Viable Product 最小化可实行产品。
@@ -38,9 +42,7 @@ Web User Interface 网页风格用户界面
 
 information Architect 信息架构
 
-* ##### UX
-
-user experlence 用户体验
+* ##### 
 
 * ##### HCT
 
